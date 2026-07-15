@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "place": "Royce Hall",
+                "color": "brown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.442196,
+                    34.072846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place": "Luskin",
+                "color": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.445416,
+                    34.071535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place": "Anderson",
+                "color": "red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.443352,
+                    34.073641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place": "YRL",
+                "color": "white"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.441556,
+                    34.075122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place": "Ronald Reagan Medical Center",
+                "color": "cyan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.446363,
+                    34.066617
+                ]
+            }
+        }
+    ]
+}
